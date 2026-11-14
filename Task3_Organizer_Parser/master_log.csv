@@ -1,0 +1,6 @@
+File,Line,Email,Transaction ID
+orders.log,1,ali.raza@example.com,TXN500101
+orders.log,2,maria-lopez@shop.net,TXN500087
+server.log,1,anna.khan@example.com,TXN482913
+server.log,2,john_doe99@mail.org,TXN482914
+server.log,3,sara.ali@company.co.uk,
