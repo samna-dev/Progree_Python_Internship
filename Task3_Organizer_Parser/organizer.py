@@ -120,4 +120,4 @@ with open("master_log.csv",  "w" ,newline="") as f:
 
 print("===Parsing Summary===")
 print(f"Rows saved to master_log.csv: {len(rows)}")
-logging.INFO(f"Parsed os : {len(rows)} rows saved to master_lo.csv")
+logging.info(f"Parsed os : {len(rows)} rows saved to master_log.csv")
