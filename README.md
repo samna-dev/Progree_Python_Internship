@@ -6,8 +6,8 @@ Submitted by: Samna Parveen
 
 - [Task 2: Fibonacci Generator](Task2_Fibonacci): function with input checks, list output and timeit benchmarks
 - [Task 3: Organizer and Log Parser](Task3_Organizer_Parser): sorts files by extension, extracts emails and transaction IDs from logs with regex, and saves them to a master CSV
-- [Task 4: Multi Intent Chatbot](Task4_Chatbot): rule based chatbot with menus, session state, global commands and fallback replies
 
+Task 4 coming soon.
 
 ## How to try Task 3
 1. Create a folder named `data_folder` next to `organizer.py` and put some sample files in it
